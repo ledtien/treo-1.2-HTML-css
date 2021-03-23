@@ -1,0 +1,49 @@
+.header {
+    text-align: right;
+    display: inline;
+    font-size: 17px;
+    word-spacing: 7px;
+    margin-top: 50px;
+}
+.content {
+    text-align: center;
+    margin-top: 10vh;
+}
+.googlelogo {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    position: fixed;
+    text-align: center;
+    background-color: #f2f2f2;  
+}
+.top {
+    text-align: left;
+}
+.left {
+    text-align: left;
+    margin-top: 40px;
+}
+.left > span {
+    margin-right: 1rem;
+  }
+.right {
+    text-align:  right;
+}
+.right > span {
+    margin-right: 1rem;
+  }
+.button {
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+.Search {
+    margin-top: 2rem;
+}
