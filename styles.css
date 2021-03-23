@@ -1,0 +1,45 @@
+div {
+    background-color: powderblue;
+
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
+section {
+  background-color: azure;
+}
+.bold {
+  font-weight: bold;
+}
+.underline {
+  text-decoration: underline;
+}
+.italic {
+  font-style: italic;
+}
+.strikethrough {
+  text-decoration: line-through;
+}
+
+section {
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-left: 100px;
+  background-color: ghostwhite;
+  border: 5px outset thistle;
+  margin-left: 50px
+
+ 
+}
+#name {
+  text-align: center;
+  color: orange;
+}
+
+#green {
+  color: green;
+}
